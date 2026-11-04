@@ -1,2 +1,3 @@
 print("=== My study assistant ===")
-print("Welcome to the program!")
+nom = input("What is your first name? ")
+print(f"Hello {nom}! Good luck with your studying.")
